@@ -5,7 +5,11 @@
 <body> 
 <h5> grocery items </h5>
 <ul>
-<li> dhaal <li>
-<li> green dhaal <li>
+<li> dhaal </li>
+<li> green dhaal </li>
 <li> vegetables </li>
-<li> 
+<li> wheat </li>
+<li> rice </li>
+</ul>
+</body>
+</html>
